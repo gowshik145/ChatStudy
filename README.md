@@ -7,7 +7,7 @@ Client-server chat applications are a category of networked software that enable
 Client-server chat applications are software systems that enable real-time communication between users over a network. These applications follow a client-server model, where one component (the server) manages connections and facilitates communication, while the other component (the client) interacts with the server to send and receive messages. Below are the fundamental aspects and components involved in the basics of client-server chat applications:
 ## 1. Client-Server Model:
 •	Server:
-•	The server is a central component that listens for incoming connections from clients.
+•	The server is a central component that listens for incoming connections from clients. 
 •	It manages the communication channels and facilitates the exchange of messages between clients.
 •	It may handle user authentication, message routing, and other core functionalities.
 •	Client:
